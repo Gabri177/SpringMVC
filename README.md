@@ -1,6 +1,6 @@
 ## SpringMVC
 
-# !!! This note was written by Itheima. I put it here for future review.
+# !!! This note was written by Itheima. I put it here for future review. This note was written by Itheima. I put it here for future review. In the examples given, some plugins were too old to use. In my repo, you can see the updated version of the code with the latest versions of plugins and extensions.
 
 **今日内容**
 
