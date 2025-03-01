@@ -1,0 +1,110 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.example</groupId>
+  <artifactId>springmvc_11_interceptor</artifactId>
+  <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>springmvc_11_interceptor Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+
+          <!--      java servlet-->
+              <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+          <!--     <dependency> -->
+          <!--         <groupId>javax.servlet</groupId> -->
+          <!--         <artifactId>javax.servlet-api</artifactId> -->
+          <!--         <version>4.0.1</version> -->
+          <!--         <scope>provided</scope> -->
+          <!--     </dependency> -->
+
+          	<dependency>
+          		<groupId>jakarta.servlet</groupId>
+          		<artifactId>jakarta.servlet-api</artifactId>
+          		<version>6.0.0</version>
+          		<scope>provided</scope>
+          	</dependency>
+
+          <!--      spring webmvc-->
+              <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+
+              <dependency>
+                  <groupId>org.springframework</groupId>
+                  <artifactId>spring-web</artifactId>
+                  <version>6.2.2</version>
+              </dependency>
+
+              <dependency>
+                  <groupId>org.springframework</groupId>
+                  <artifactId>spring-webmvc</artifactId>
+                  <version>6.2.2</version>
+              </dependency>
+
+          <!--  spring jdbc-->
+              <!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+              <dependency>
+                  <groupId>org.springframework</groupId>
+                  <artifactId>spring-jdbc</artifactId>
+                  <version>6.2.2</version>
+              </dependency>
+
+          <!--  druid-->
+              <!-- https://mvnrepository.com/artifact/com.alibaba/druid -->
+              <dependency>
+                  <groupId>com.alibaba</groupId>
+                  <artifactId>druid</artifactId>
+                  <version>1.2.24</version>
+              </dependency>
+
+          <!--  mysql connector java-->
+              <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+              <dependency>
+                  <groupId>mysql</groupId>
+                  <artifactId>mysql-connector-java</artifactId>
+                  <version>8.0.33</version>
+              </dependency>
+
+          <!--  mybatis-->
+              <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
+              <dependency>
+                  <groupId>org.mybatis</groupId>
+                  <artifactId>mybatis</artifactId>
+                  <version>3.5.13</version>
+              </dependency>
+
+          <!--  mybatis spring-->
+              <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis-spring -->
+              <dependency>
+                  <groupId>org.mybatis</groupId>
+                  <artifactId>mybatis-spring</artifactId>
+                  <version>3.0.4</version>
+              </dependency>
+        <!--        json support-->
+              <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+              <dependency>
+                  <groupId>com.fasterxml.jackson.core</groupId>
+                  <artifactId>jackson-databind</artifactId>
+                  <version>2.18.2</version>
+              </dependency>
+
+              <dependency>
+    			  <groupId>org.junit.jupiter</groupId>
+    			  <artifactId>junit-jupiter-api</artifactId>
+    			  <version>5.9.2</version>
+    			  <scope>test</scope>
+    		  </dependency>
+
+    <!-- 		   spring-test-->
+    		  <dependency>
+    			  <groupId>org.springframework</groupId>
+    			  <artifactId>spring-test</artifactId>
+    			  <version>6.2.2</version>
+    			  <scope>test</scope>
+    		  </dependency>
+
+
+            </dependencies>
+  <build>
+    <finalName>springmvc_11_interceptor</finalName>
+  </build>
+</project>
