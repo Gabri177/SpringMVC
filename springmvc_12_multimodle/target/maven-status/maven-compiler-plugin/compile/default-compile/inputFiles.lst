@@ -1,0 +1,14 @@
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/config/JdbcConfig.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/config/MybatisConfig.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/config/ServletContainerInitConfig.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/config/SpringConfig.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/config/SpringMvcConfig.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/controller/Code.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/controller/ProjectExceptionAdvice.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/controller/Result.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/controller/UserInfoController.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/exception/BusinissException.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/exception/SystemException.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/mapper/UserInfoMapper.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/service/UserInfoService.java
+/Users/gabrielgao/Desktop/my_practices/java_frame/SpringMVC/springmvc_12_multimodle/src/main/java/com/yugao/service/impl/UserInfoServiceImpl.java
